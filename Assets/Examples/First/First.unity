@@ -270,12 +270,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fc79d216dbe7d94294d7149e3b6bb7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mode: 0
+  mode: 1
   fab: {fileID: 131224, guid: fc71e3217cf49734b86c072ba4a6762f, type: 2}
   instanceMat: {fileID: 2100000, guid: c5e069fa99f28fa4c93a6561adc78d9f, type: 2}
   nInstances: 100000
   radius: 10
-  speed: 3
+  speed: 1
   bounds:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 20, y: 20, z: 20}

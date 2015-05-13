@@ -3,7 +3,7 @@ using System.Threading;
 
 
 
-namespace Threading {
+namespace UnityThreading {
 
 	public static class Parallel {
 		public static void For(int fromInclusive, int toExclusive, System.Action<int> body) {

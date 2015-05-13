@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.Runtime.InteropServices;
-using Threading;
+using UnityThreading;
 
 public class Movement : MonoBehaviour {
 	public enum ModeEnum { Sequential = 0, Parallel }
