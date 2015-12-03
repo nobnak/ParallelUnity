@@ -1,5 +1,9 @@
 # Parallel.For for Unity
 
+[Unity Package](Parallel.unitypackage)
+
+ - For Loop Execution in Parallel
+
 ## Usage
 Declare Parallel Task
 ```c#
